@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "minecraft:cooked_beef"
+    },
+    
+    {
+      "item": "minecraft:bowl"
+    }
+    
+    ],
+ 
+    "result":
+    {
+        "item": "sm:beef_stew",
+        "count": 1
+    }
+}

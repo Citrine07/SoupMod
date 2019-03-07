@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sm",
+  "name": "Soup Mod",
+  "description": "New soups added to 1.12x!",
+  "version": "${1.1}",
+  "mcversion": "${1.12}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CiTrine"],
+  "credits": "Made by CiTrine",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
